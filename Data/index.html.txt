@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Night Market of Magical Creatures</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+  <header>
+    <h1>The Night Market of Magical Creatures</h1>
+    <p>
+      Just past the glowing river, I found a marketplace only seen by moonlight.
+      Three magical beings offered me curious treasures…
+    </p>
+  </header>
+
+  <section>
+    <h2>The Dream Weaver</h2>
+    <img src="../img/creature1.jpg" alt="Dream weaver creature" />
+    <p>
+      She sold bottled dreams. When I opened one, I saw <span>floating cities</span> and
+      silver oceans — but only for a second.
+    </p>
+  </section>
+
+  <section>
+    <h2>The Time Tailor</h2>
+    <img src="../img/creature2.jpg" alt="Time tailoring creature" />
+    <p>
+      He stitched seconds together like cloth. “Time is what you make,” he said,
+      handing me a broken minute.
+    </p>
+  </section>
+
+  <section>
+    <h2>The Lantern Beast</h2>
+    <img src="../img/creature3.jpg" alt="Creatures with lanterns" />
+    <p>
+      A glowing animal with eyes like stars offered light from forgotten suns.
+      I refused — too bright to understand.
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 — A quiet night, and a magical memory.</p>
+  </footer>
+
+  <script src="../js/index.js"></script>
+</body>
+</html>
